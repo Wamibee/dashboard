@@ -12,6 +12,11 @@ export default {
 				'wallpapers/wallpaper-1.webp',
 				'wallpapers/wallpaper-2.jpg',
 				'wallpapers/wallpaper-3.jpg',
+				'wallpapers/ernst-1.jpg',
+				'wallpapers/ernst-2.jpg',
+				'wallpapers/ernst-3.jpg',
+				'wallpapers/ernst-4.jpg',
+				'wallpapers/ernst-5.jpg',
 			]
 		};
 	},
